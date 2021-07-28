@@ -7,3 +7,4 @@ _______________
 - control C = stops server running to make changes
 - in use error use: killall -9 node
 - can't run same server
+- npm install body-parser
